@@ -1,0 +1,1 @@
+## Clash Royale Lambdas to fetch data from CR API
